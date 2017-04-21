@@ -27,3 +27,4 @@ fabric.properties
 *.test
 *.out
 .glide/
+*.iml
